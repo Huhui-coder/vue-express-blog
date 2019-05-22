@@ -1,4 +1,4 @@
-# vue-shopping
+# vue-blog
 
 > A Vue.js project
 
